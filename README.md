@@ -1,6 +1,6 @@
 # A-B-Testing-Webpage-Engagement
 <br> 
-We created two groups:
+We have two groups:
 
 Group A (Control) with an average engagement time of 60 seconds. Group B (Test) with an average engagement time of 65 seconds. Both groups had the same sample size (100) and standard deviation (10 seconds). 
 <br><br>Data Visualization: The histogram shows the distribution of engagement times for both groups. This visual representation helps us see the overlap and differences between the two groups.
