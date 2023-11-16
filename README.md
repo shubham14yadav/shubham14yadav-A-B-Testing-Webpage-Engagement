@@ -1,5 +1,5 @@
 # A-B-Testing-Webpage-Engagement
-Data Simulation:<br> 
+<br> 
 We created two groups:
 
 Group A (Control) with an average engagement time of 60 seconds. Group B (Test) with an average engagement time of 65 seconds. Both groups had the same sample size (100) and standard deviation (10 seconds). 
